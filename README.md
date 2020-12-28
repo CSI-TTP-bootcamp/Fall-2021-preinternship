@@ -37,7 +37,7 @@ Daily Schedule (Subject To Change!)
 
 ## Curriculum Index (Tentative, Subject To Change)
 
-- Pre-Bootcamp Material
+- Class Session 0: Tech Talent Pipeline Orientation | (12/29/2020)
 
 - Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
 
