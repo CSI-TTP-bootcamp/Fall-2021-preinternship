@@ -7,9 +7,9 @@ Monday - Friday, 10:00AM - 4:00PM
 Dates:
 January 4th, 2021 (Monday) - January 29th, 2021 (Friday)
 
-Google Classroom: https://classroom.google.com/c/ODcxNjAwMDUwNDRa
+Google Classroom: https://classroom.google.com/c/MTg1OTE1MTkwNzE2?cjc=5v43art
 
-Slack Workspace: https://summer2020ttp.slack.com
+Slack Workspace: https://ttpatcsi.slack.com/archives/C01GJ7Q1Z35
 
 Lead Instructor: TBD
 
