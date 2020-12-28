@@ -1,23 +1,27 @@
-# Tech Talent Pipeline Residency: Summer 2020 Bootcamp
+# Tech Talent Pipeline Residency: Fall 2021 Bootcamp
 
 Class Days and Class Times:
 
 Monday - Friday, 10:00AM - 4:00PM
 
 Dates:
-May 27th, 2020 (Wednesday) - June 22nd, 2020 (Monday)
+January 4th, 2021 (Monday) - January 29th, 2021 (Friday)
 
 Google Classroom: https://classroom.google.com/c/ODcxNjAwMDUwNDRa
 
 Slack Workspace: https://summer2020ttp.slack.com
 
-Lead Instructor: Shahid Sarker
+Lead Instructor: TBD
 
-Teaching Assistants: TBA
+Lead Teaching Assistant: Emira Hajj
 
-Program Manager: Allan James S. Lapid
+Teaching Assistants: Manken Conde, Roberto Garcia, Gabriel Ruiz
 
-Emails: shahid.sarker@gmail.com, ajLapid718@gmail.com
+Program Manager: Sabine Salandy
+
+Career Coach: Omar Duran
+
+Emails: (Instructor TBD), sabine.salandy@csi.cuny.edu, omar.duran@csi.cuny.edu
 
 ---
 
@@ -35,43 +39,43 @@ Daily Schedule (Subject To Change!)
 
 - Pre-Bootcamp Material
 
-- Class Session 1: Pilot Assessment and Collaborative Workflow I | (05/28/2020)
+- Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
 
-- Class Session 2: Collaborative Workflow I and Introduction to JS | (05/29/2020)
+- Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
 
-- Class Session 3: DOM Manipulation | (06/01/2020)
+- Class Session 3: DOM Manipulation | (01/06/2021)
 
-- Class Session 4: Introduction to React | (06/02/2020)
+- Class Session 4: Introduction to React | (01/07/2021)
 
-- Class Session 5: Introduction to External API Requests and ReactJS | (06/03/2020)
+- Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
 
-- Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/04/2020)
+- Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2020)
 
-- Class Session 7: React Router and Client-Side Routing in a SPA | (01/10/2020)
+- Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
 
-- Class Session 8: State Management with Redux and React-Redux | (01/11/2020)
+- Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
 
-- Class Session 9: Introduction to NodeJS | (01/13/2020)
+- Class Session 9: Introduction to NodeJS | (01/14/2021)
 
-- Class Session 10: CRUD App I | (01/14/2020)
+- Class Session 10: CRUD App I | (01/15/2021)
 
-- Class Session 11: CRUD App II | (01/15/2020)
+- Class Session 11: CRUD App II | (01/18/2021)
 
-- Class Session 12: CRUD App III | (01/16/2020)
+- Class Session 12: CRUD App III | (01/19/2021)
 
-- Class Session 13: Project Building I | (01/17/2020)
+- Class Session 13: Project Building I | (01/20/2021)
 
-- Class Session 14: Project Building II | (01/18/2020)
+- Class Session 14: Project Building II | (01/21/2021)
 
-- Class Session 15: Project Building III | (01/20/2020)
+- Class Session 15: Project Building III | (01/22/2021)
 
-- Class Session 16: Project Building IV | (01/21/2020)
+- Class Session 16: Project Building IV | (01/23/2021)
 
-- Class Session 17: Project Building V | (01/22/2020)
+- Class Session 17: Project Building V | (01/26/2021)
 
-- Class Session 18: Project Building VI | (01/23/2020)
+- Class Session 18: Project Building VI | (01/27/2021)
 
-- Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
+- Class Session 19: Exit Assessment and Demo Day | (01/28/2021)
 
 ---
 
@@ -83,7 +87,7 @@ Daily Schedule (Subject To Change!)
 - [Flexbox Froggy Exercise](https://flexboxfroggy.com/)
 - [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
 
-**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (05/28/2020)**
+**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/04/2021)**
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
@@ -99,7 +103,7 @@ Daily Schedule (Subject To Change!)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
 
-**Class Session 2: Javascript Basics Overview (05/29/2020)**
+**Class Session 2: Javascript Basics Overview (01/05/2021)**
 
 _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more complex topics that we will be covering)_
 
@@ -115,7 +119,7 @@ _Suggested Pre-Reading (you could also consider the first two chapers as well, b
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
-**Class Session 3: DOM Manipulation (06/01/2020)**
+**Class Session 3: DOM Manipulation (01/06/2021)**
 
 _Suggested Pre-Reading_
 
@@ -141,7 +145,7 @@ _Material For The Day_
 
 - [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
-**Class Session 4: Introduction to React (01/07/2020)**
+**Class Session 4: Introduction to React (01/07/2021)**
 
 _Suggested Pre-Reading_
 
@@ -165,7 +169,7 @@ _Suggested Pre-Reading_
 
 - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
-**Class Session 5: Introduction to External API Requests and ReactJS Continued (01/07/2020)**
+**Class Session 5: Introduction to External API Requests and ReactJS Continued (01/08/2021)**
 
 - [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
 
@@ -196,7 +200,7 @@ _Suggested Pre-Reading_
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
-**Class Session 6: Zip/City API Assignment && GIPHY API Assignment I | (01/08/2020)**
+**Class Session 6: Zip/City API Assignment && GIPHY API Assignment I | (01/09/2021)**
 
 - [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
 
@@ -206,9 +210,9 @@ _Suggested Pre-Reading_
 - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 - [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 
-**Class Session 7: Zip/City API Assignment && GIPHY API Assignment II | (01/09/2020)**
+**Class Session 7: Zip/City API Assignment && GIPHY API Assignment II | (01/10/2021)**
 
-**Class Session 8: React Router and Client-Side Routing In a Single-Page-Application | (01/10/2020)**
+**Class Session 8: React Router and Client-Side Routing In a Single-Page-Application | (01/11/2021)**
 
 - [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
 - [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
@@ -219,7 +223,7 @@ _Suggested Pre-Reading_
 - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Class Session 9: Redux | (01/11/2020)**
+**Class Session 9: Redux | (01/12/2021)**
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
@@ -240,7 +244,7 @@ _Suggested Pre-Reading_
 <!-- - [Counter and Students Codealong](https://github.com/ajLapid718/counter-reduxify) -->
 <!-- - ["Counter" Example](https://github.com/ajLapid718/redux-it-counter) -->
 
-**Class Session 10: Introduction to NodeJS | (01/13/2020)**
+**Class Session 10: Introduction to NodeJS | (01/13/2021)**
 
 - [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
 
@@ -254,13 +258,13 @@ _Suggested Pre-Reading_
 
 - [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
-**Class Session 11: Introduction to ExpressJS | (01/14/2020)**
+**Class Session 11: Introduction to ExpressJS | (01/14/2021)**
 
 - [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
 
 - [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
 
-**Class Session 12: PostgreSQL/Sequelize I (01/15/2020)**
+**Class Session 12: PostgreSQL/Sequelize I (01/15/2021)**
 
 - [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
 - [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
@@ -272,7 +276,7 @@ _Suggested Pre-Reading_
 - [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-**Class Session 13: PostgreSQL/Sequelize II (01/16/2020)**
+**Class Session 13: PostgreSQL/Sequelize II (01/16/2021)**
 
 - [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
 - [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
@@ -285,6 +289,6 @@ _Suggested Pre-Reading_
 - [Under-The-Hood SQL Statements for Sequelize Queries and Methods](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - [Difference Between res.send() and res.json()](https://www.codingdefined.com/2016/06/difference-between-ressend-and-resjson.html) -->
 
-<!-- **Class Session 20: CORS and Other Middleware and AJAX | (08/09/2019)**
+<!-- **Class Session 20: CORS and Other Middleware and AJAX | (01/29/2021)**
 - [MDN: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Nuances of Postman](https://learning.getpostman.com/docs/postman/sending_api_requests/proxy/) -->
