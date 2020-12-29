@@ -11,7 +11,7 @@ Google Classroom: https://classroom.google.com/c/MTg1OTE1MTkwNzE2?cjc=5v43art
 
 Slack Workspace: https://ttpatcsi.slack.com/archives/C01GJ7Q1Z35
 
-Lead Instructor: TBD
+Lead Instructor: Fahad Kiani
 
 Lead Teaching Assistant: Emira Hajj
 
