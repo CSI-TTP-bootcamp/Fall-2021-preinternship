@@ -87,9 +87,11 @@ Daily Schedule (Subject To Change!)
 - [Flexbox Froggy Exercise](https://flexboxfroggy.com/)
 - [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
 
-**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/04/2021)**
+**Class Session 1: Hackerrank Assessment, Onboarding, Assignment 0 (01/04/2021)**
 
 - [Hackerrank Pre-Assessment](https://www.hackerrank.com/test/eni9i5rsi03/2e1d4f950c4c3ae0cce9126578719d6f?try_test=true&email=ka.tom@cuny.edu)
+
+**Class Session 2: Git/Github/Collaborative Software Development (Pair Programming) (01/05/2021)**
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
