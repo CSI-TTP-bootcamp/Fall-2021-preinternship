@@ -15,13 +15,13 @@ Lead Instructor: Fahad Kiani
 
 Lead Teaching Assistant: Emira Hajj
 
-Teaching Assistants: Manken Conde, Roberto Garcia, Gabriel Ruiz
+Teaching Assistants: Manken Conde, Roberto Garcia, Gabriel Ruiz, Aidan Kenney
 
 Program Manager: Sabine Salandy
 
 Career Coach: Omar Duran
 
-Emails: (Instructor TBD), sabine.salandy@csi.cuny.edu, omar.duran@csi.cuny.edu
+Emails: fahad.kiani@csi.cuny.edu, sabine.salandy@csi.cuny.edu, omar.duran@csi.cuny.edu
 
 ---
 
@@ -88,6 +88,8 @@ Daily Schedule (Subject To Change!)
 - [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
 
 **Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/04/2021)**
+
+- [Hackerrank Pre-Assessment](https://www.hackerrank.com/test/eni9i5rsi03/2e1d4f950c4c3ae0cce9126578719d6f?try_test=true&email=ka.tom@cuny.edu)
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
