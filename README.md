@@ -109,8 +109,6 @@ Daily Schedule (Subject To Change!)
 
 - [Git and GitHub Slides - Part II](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing)
 
-- [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
-
 **Class Session 3: Javascript Basics Overview (01/06/2021)**
 
 _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more complex topics that we will be covering)_
@@ -124,8 +122,6 @@ _Suggested Pre-Reading (you could also consider the first two chapers as well, b
 - [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
 
 - [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
-
-- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
 **Class Session 4: DOM Manipulation (01/07/2021)**
 
@@ -147,11 +143,6 @@ _Material For The Day_
 - [Traversing the DOM with JavaScript](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [An Introduction to DOM Events with JavaScript](https://www.youtube.com/watch?v=QE1YQnhntgw&list=PLruo2gSoqlej-QjRW25c97socsRiAUVuf&index=10)
 
-- [Assignment #3: DOM Challenges I](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit?usp=sharing)
-
-- [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
-
-- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
 **Class Session 5: Introduction to React (01/08/2021)**
 
