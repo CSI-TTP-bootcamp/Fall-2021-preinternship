@@ -170,7 +170,7 @@ _Suggested Pre-Reading_
 
 - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) 
 
-**Class Session 6: Introduction to External API Requests and ReactJS Continued (01/11/2021)**
+**Class Session 6: Introduction to External API Requests and ReactJS (01/11/2021)**
 
 - [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
 
@@ -201,7 +201,7 @@ _Suggested Pre-Reading_
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
-**Class Session 7: Zip/City API Assignment && GIPHY API Assignment I | (01/12/2021)**
+**Class Session 7: Introduction to External API Requests and ReactJS Continued | (01/12/2021)**
 
 - [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
 
@@ -211,9 +211,7 @@ _Suggested Pre-Reading_
 - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 - [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 
-**Class Session 8: Zip/City API Assignment && GIPHY API Assignment II | (01/13/2021)**
-
-**Class Session 9: React Router and Client-Side Routing In a Single-Page-Application | (01/14/2021)**
+**Class Session 8: React Router and Client-Side Routing In a Single-Page-Application | (01/13/2021)**
 
 - [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
 - [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
@@ -224,7 +222,7 @@ _Suggested Pre-Reading_
 - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Class Session 10: Redux | (01/15/2021)**
+**Class Session 9: State Management with Redux and React-Redux | (01/14/2021)**
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
@@ -245,7 +243,7 @@ _Suggested Pre-Reading_
 <!-- - [Counter and Students Codealong](https://github.com/ajLapid718/counter-reduxify) -->
 <!-- - ["Counter" Example](https://github.com/ajLapid718/redux-it-counter) -->
 
-**Class Session 11: Introduction to NodeJS | (01/18/2021)**
+**Class Session 10: Introduction to NodeJS + ExpressJS | (01/15/2021)**
 
 - [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
 
@@ -259,13 +257,11 @@ _Suggested Pre-Reading_
 
 - [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
-**Class Session 12: Introduction to ExpressJS | (01/19/2021)**
-
 - [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
 
 - [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
 
-**Class Session 13: PostgreSQL/Sequelize I (01/20/2021)**
+**Class Session 11: CRUD App I + II and PostgreSQL/Sequelize I (01/19/2021)**
 
 - [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
 - [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
@@ -277,7 +273,7 @@ _Suggested Pre-Reading_
 - [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-**Class Session 14: PostgreSQL/Sequelize II (01/21/2021)**
+**Class Session 12: CRUD App III + PostgreSQL/Sequelize II (01/20/2021)**
 
 - [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
 - [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
