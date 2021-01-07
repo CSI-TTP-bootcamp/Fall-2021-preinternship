@@ -39,43 +39,45 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 0: Tech Talent Pipeline Orientation | (12/29/2020)
 
-- Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
+- Class Session 1: Pilot Assessment | (01/04/2021)
 
-- Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
+- Class Session 2: Collaborative Workflow I | (01/05/2021)
 
-- Class Session 3: DOM Manipulation | (01/06/2021)
+- Class Session 3: Introduction to JS | (01/06/2021)
 
-- Class Session 4: Introduction to React | (01/07/2021)
+- Class Session 4: DOM Manipulation | (01/07/2021)
 
-- Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
+- Class Session 5: Introduction to React | (01/08/2021)
 
-- Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2020)
+- Class Session 6: Introduction to External API Requests and ReactJS | (01/11/2020)
 
-- Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
+- Class Session 7: Introduction to External API Requests and ReactJS Continued | (01/12/2021)
 
-- Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
+- Class Session 8: React Router and Client-Side Routing in a SPA | (01/13/2021)
 
-- Class Session 9: Introduction to NodeJS | (01/14/2021)
+- Class Session 9: State Management with Redux and React-Redux | (01/14/2021)
 
-- Class Session 10: CRUD App I | (01/15/2021)
+- Class Session 10: Introduction to NodeJS | (01/15/2021)
 
-- Class Session 11: CRUD App II | (01/18/2021)
+- Class Session 11: CRUD App I | (01/18/2021)
 
-- Class Session 12: CRUD App III | (01/19/2021)
+- Class Session 12: CRUD App II | (01/19/2021)
 
-- Class Session 13: Project Building I | (01/20/2021)
+- Class Session 13: CRUD App III | (01/20/2021)
 
-- Class Session 14: Project Building II | (01/21/2021)
+- Class Session 14: Project Building I | (01/21/2021)
 
-- Class Session 15: Project Building III | (01/22/2021)
+- Class Session 15: Project Building II | (01/22/2021)
 
-- Class Session 16: Project Building IV | (01/23/2021)
+- Class Session 16: Project Building III | (01/23/2021)
 
-- Class Session 17: Project Building V | (01/26/2021)
+- Class Session 17: Project Building IV | (01/26/2021)
 
-- Class Session 18: Project Building VI | (01/27/2021)
+- Class Session 18: Project Building V | (01/27/2021)
 
-- Class Session 19: Exit Assessment and Demo Day | (01/28/2021)
+- Class Session 19: Project Building VI | (01/28/2021)
+
+- Class Session 20: Exit Assessment and Demo Day | (01/29/2021)
 
 ---
 
