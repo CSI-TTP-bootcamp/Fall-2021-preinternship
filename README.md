@@ -57,7 +57,7 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 9: State Management with Redux and React-Redux | (01/14/2021)
 
-- Class Session 10: Introduction to NodeJS | (01/15/2021)
+- Class Session 10: Introduction to NodeJS + ExpressJS | (01/15/2021)
 
 - Class Session 11: CRUD App I | (01/18/2021)
 
