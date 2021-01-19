@@ -59,25 +59,21 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 10: Introduction to NodeJS + ExpressJS | (01/15/2021)
 
-- Class Session 11: CRUD App I | (01/18/2021)
+- Class Session 11: CRUD App I | (01/19/2021)
 
-- Class Session 12: CRUD App II | (01/19/2021)
+- Class Session 12: CRUD App II | (01/20/2021)
 
-- Class Session 13: CRUD App III | (01/20/2021)
+- Class Session 13: CRUD App III | (01/21/2021)
 
-- Class Session 14: Project Building I | (01/21/2021)
+- Class Session 14: Project Building I | (01/22/2021)
 
-- Class Session 15: Project Building II | (01/22/2021)
+- Class Session 15: Project Building II | (01/25/2021)
 
-- Class Session 16: Project Building III | (01/23/2021)
+- Class Session 16: Project Building III | (01/26/2021)
 
-- Class Session 17: Project Building IV | (01/26/2021)
+- Class Session 17: Project Building IV | (01/27/2021)
 
-- Class Session 18: Project Building V | (01/27/2021)
-
-- Class Session 19: Project Building VI | (01/28/2021)
-
-- Class Session 20: Exit Assessment and Demo Day | (01/29/2021)
+- Class Session 18: Exit Assessment and Demo Day | (01/28/2021)
 
 ---
 
