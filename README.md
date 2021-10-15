@@ -81,6 +81,7 @@ Daily Schedule (Subject To Change!)
 
 **Pre-Bootcamp Material**
 
+- [Assignment 0](https://docs.google.com/presentation/d/1D7hIYVrQJAIAvLVjTAKk6k3L_hfZOU_QUV72zvPK9vo/edit#slide=id.g7838448385_0_811)
 - [CSS Diner Exercise](https://flukeout.github.io/)
 - [Flexbox Froggy Exercise](https://flexboxfroggy.com/)
 - [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
@@ -91,7 +92,7 @@ Daily Schedule (Subject To Change!)
 
 - [Google Classroom/ Onboarding](https://classroom.google.com/w/MTg1OTE1MTkwNzE2/t/all)
 
-- [Assignment 0](https://docs.google.com/presentation/d/1D7hIYVrQJAIAvLVjTAKk6k3L_hfZOU_QUV72zvPK9vo/edit#slide=id.g7838448385_0_811)
+- [Build a Tribute Page] (https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 **Class Session 2: Git/Github/Collaborative Software Development (Pair Programming) (01/05/2021)**
 
