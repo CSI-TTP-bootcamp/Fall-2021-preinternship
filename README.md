@@ -92,7 +92,7 @@ Daily Schedule (Subject To Change!)
 
 - [Google Classroom/ Onboarding](https://classroom.google.com/w/MTg1OTE1MTkwNzE2/t/all)
 
-- [Build a Tribute Page] (https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+- [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 **Class Session 2: Git/Github/Collaborative Software Development (Pair Programming) (01/05/2021)**
 
